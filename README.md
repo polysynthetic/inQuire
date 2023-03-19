@@ -15,6 +15,6 @@ inventory - check your inventory
 sell - sell ALL copper/silver/gold  
 password - generate a secure password (this command costs 35 inQuire dosh)  
   
-**other stuff....*  
+**other stuff....**  
 
 this is when everything in the system was created. for further detail read the comments in the code  
